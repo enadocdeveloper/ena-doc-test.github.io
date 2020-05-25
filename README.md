@@ -23,6 +23,15 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+
+
+Enter your user name and click on next button. If you belong to multiple organization, you
+will be navigated to select the tenant. Select the tenant you need to login. For the first time,
+you will not be getting the page where you need to select organization **(Screen 3)** and will
+navigate to the password required page immediately. After select an organization you will
+be directed to password required page **(Screen 4)**.
+
+
 [Link](url) and ![Image](src)
 ```
 
